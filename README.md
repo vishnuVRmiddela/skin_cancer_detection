@@ -71,7 +71,7 @@ Ensure you have the following installed:
 
 ## 📊 Sample Resuts
 
-![Results](result_1.jpg)
+![Results](results_1.jpg)
 ![Results](result_2.jpg)
 
 
