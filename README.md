@@ -71,9 +71,9 @@ Ensure you have the following installed:
 
 ## 📊 Sample Resuts
 
-results_1.jpg
+![Results](result_1.jpg)
+![Results](result_2.jpg)
 
-![Detection Result 2](result_2jpg)
 
 ## 📝 Acknowledgmnts
 
