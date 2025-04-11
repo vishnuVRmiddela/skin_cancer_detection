@@ -1,14 +1,14 @@
 # Skin Cancer Detection with YOLOv8 and Streamlit
 
-This project leverages the YOLOv8 object detection model to identify skin cancer from images. A user-friendly Streamlit web application allows users to upload skin images and receive detection results in real-time.
+This project leverages the YOLOv8 object detection model to identify skin cancer from images. A user-friendly Streamlit web application allows users to upload skin images and receive detection results in real-time.
 
 ![Webpage UI](Webpade_UI.jpg)
 
 ## 🧠 Project Overview
 
-- **Model**:YOLOv8 trained on a custom skin disease dataset
-- **Interface**:Streamlit-based web application for image upload and result visualization
-- **Objective**:Provide an accessible tool for preliminary skin cancer detection
+- **Model**:YOLOv8 trained on a custom skin disease dataset
+- **Interface**:Streamlit-based web application for image upload and result visualization
+- **Objective**:Provide an accessible tool for preliminary skin cancer detection
 
 ## 📁 Repository Structure
 
@@ -23,7 +23,7 @@ This project leverages the YOLOv8 object detection model to identify skin cancer
 ### Prerequisites
 
 Ensure you have the following installed:
-- Python 3.8 or higer- `pip` package manaer
+- Python 3.8 or higer- `pip` package manager
 
 ### Installation
 
@@ -33,7 +33,7 @@ Ensure you have the following installed:
    git clone https://github.com/vishnuVRmiddela/skin_cancer_detection.git
    cd skin_cancer_detection
    ``
-
+
 
 2. **Create a Virtual Environment (Optional but Recommended)**:
 
@@ -41,7 +41,7 @@ Ensure you have the following installed:
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ``
-
+
 
 3. **Install Dependencies**:
 
@@ -65,9 +65,9 @@ Ensure you have the following installed:
 
 2. **Interact with the Application**:
 
-  - Navigate to the URL provided by Streamlit (typically `http://localhost:850`).
-  - Upload a skin image in JPG, JPEG, or PNG forat.
-  - View the detection results displayed on the imge.
+  - Navigate to the URL provided by Streamlit (typically `http://localhost:850`).
+  - Upload a skin image in JPG, JPEG, or PNG forat.
+  - View the detection results displayed on the imge.
 
 ## 📊 Sample Resuts
 
@@ -77,8 +77,8 @@ Ensure you have the following installed:
 
 ## 📝 Acknowledgmnts
 
-This project is inspired by the need for accessible tools in medical diagnotcs. Special thanks to the developers of YOLOv8 and the contributors to the datasets used for traning.
+This project is inspired by the need for accessible tools in medical diagnotcs. Special thanks to the developers of YOLOv8 and the contributors to the datasets used for traning.
 
 ## 📄 Liense
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for dtails.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for dtails.
