@@ -71,7 +71,7 @@ Ensure you have the following installed:
 
 ## 📊 Sample Resuts
 
-![Detection Result 1](results_1jpg
+results_1.jpg
 
 ![Detection Result 2](result_2jpg)
 
